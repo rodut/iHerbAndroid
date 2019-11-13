@@ -1,0 +1,6 @@
+Open iHerb app on mobile phone
+Tap on "Human" icon (right bottom corner)
+Tap on "Sign In" link
+Tap on "Create an Account" link
+Tap on "iHerb's Terms of Use" link
+Verify if "Terms and Conditions" page was opened

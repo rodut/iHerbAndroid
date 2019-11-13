@@ -1,0 +1,5 @@
+Open iHerb app on mobile phone
+Tap on "Human" icon (right bottom corner)
+Tap on "Sign In" link
+Tap on "Create an Account" link
+Verify if "I want to receive exclusive..." text is displayed

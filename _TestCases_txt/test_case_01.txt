@@ -1,0 +1,7 @@
+Open iHerb app on mobile phone
+Tap on "Human" icon (right bottom corner)
+Tap on "Sign In" link
+Tap on "Create an Account" link
+Verify if the right page was opened
+Tap on "back arrow" button
+Verify if the "Login" page was opened

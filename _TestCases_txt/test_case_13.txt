@@ -1,0 +1,11 @@
+Open iHerb app on mobile phone
+Tap on "Human" icon (right bottom corner)
+Tap on "Sign In" link
+Tap on "Create an Account" link
+Enter a valid phone number in mobile phone field ("2125557890")
+Enter an existing email address
+Enter a valid password
+Confirm the valid password
+Check the "I represent..." checkbox
+Tap on "CREATE AN ACCOUNT" button
+Verify if an error message appears ("The email address you entered already belongs to an account. Enter another email or sign in")

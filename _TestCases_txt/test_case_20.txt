@@ -1,0 +1,7 @@
+Open iHerb app on mobile phone
+Tap on "Human" icon (right bottom corner)
+Tap on "Sign In" link
+Tap on "Create an Account" link
+Wait until the "Create Account" form is loaded
+Enter a valid password in the "Confirm Password" field
+Verify if the "Confirm Password" field is showing only asterisks

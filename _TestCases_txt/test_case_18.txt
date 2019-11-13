@@ -1,0 +1,9 @@
+Open iHerb app on mobile phone
+Tap on "Human" icon (right bottom corner)
+Tap on "Sign In" link
+Tap on "Create an Account" link
+Enter a valid password in the "Confirm Password" field
+Tap on "eye" button
+Verify if the password can be seen
+Tap one more time on "eye" button
+Verify if the password was hidden
