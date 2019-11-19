@@ -9,12 +9,11 @@ import sys
 sys.path.append("C:/Users/Tudor/PycharmProjects/iHerbMobile")
 
 __author__ = "Tudor C"
-__email__ = "tudorache@gmail.com"
 
 
 class CreateAccountTest21(unittest.TestCase):
-    email = "aaa@bb115122.com"
-    mobile = "2125552229"
+    email = "aabba1213@whoknows.com"
+    mobile = "2125551327"
     password = "12345678"
     confirm_password = "12345678"
 

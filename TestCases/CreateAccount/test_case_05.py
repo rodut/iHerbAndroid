@@ -4,13 +4,11 @@ from selenium.webdriver.support.wait import WebDriverWait
 import HtmlTestRunner
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
-import time
 from PageObjects.CreateAccount import CreateAccount
 import sys
 sys.path.append("C:/Users/Tudor/PycharmProjects/iHerbMobile")
 
 __author__ = "Tudor C"
-__email__ = "tudorache@gmail.com"
 
 
 class CreateAccountTest05(unittest.TestCase):

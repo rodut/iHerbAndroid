@@ -4,6 +4,8 @@ from selenium.webdriver.common.by import By
 import time
 from selenium.webdriver.support import expected_conditions as EC
 
+__author__ = "Tudor C"
+
 
 class CreateAccount:
     # Locator of all elements

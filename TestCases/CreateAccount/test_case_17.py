@@ -9,7 +9,6 @@ import sys
 sys.path.append("C:/Users/Tudor/PycharmProjects/iHerbMobile")
 
 __author__ = "Tudor C"
-__email__ = "tudorache@gmail.com"
 
 
 class CreateAccountTest17(unittest.TestCase):
